@@ -4,7 +4,7 @@ import cvzone
 import math
 import time
  
-cap = cv2.VideoCapture('natural-form.jpeg') 
+cap = cv2.VideoCapture('input.jpg') 
 cap.set(3, 1280)
 cap.set(4, 720)
  
